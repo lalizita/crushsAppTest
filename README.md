@@ -20,7 +20,7 @@ npm i -g mocha istanbul
 Agora você precisa estar dentro da sua pasta, abra o terminal e instale as dependências do projeto (o Should já está como dependência)
 
 ```
-    npm install
+npm install
 ```
 
 Para rodar os testes basta rodar o seguinte comando na pasta:
