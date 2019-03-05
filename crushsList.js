@@ -20,6 +20,8 @@ const findCrush = name => {
 
 const countCrushs = () => list.length
 
+const newFunction = num => num
+
 // private 
 
 const validateSearch = text => {

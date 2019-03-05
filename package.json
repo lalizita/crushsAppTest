@@ -4,7 +4,8 @@
   "description": "this application is used for teach about TDD using javascript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/crushsList.test.js"
+    "test": "mocha tests/**/*.js",
+    "coverage": "istanbul cover _mocha tests/**/*.js"
   },
   "author": "Laís Lima",
   "license": "ISC",
