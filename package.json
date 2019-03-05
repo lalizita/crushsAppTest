@@ -1,0 +1,16 @@
+{
+  "name": "crushs-tests",
+  "version": "1.0.0",
+  "description": "this application is used for teach about TDD using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/crushsList.test.js"
+  },
+  "author": "Laís Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^6.0.2",
+    "should": "^13.2.3"
+  }
+}
